@@ -1,6 +1,34 @@
+<div align="center">
+    <br />
+    <p>
+        <a href="https://lenobot.xyz"><img src="https://lenobot.xyz/app_asset/htmlimg.png" width="546" alt="discord.js" /></a>
+    </p>
+    <br />
+    <p>
+        <a href="https://discord.gg/PNpVAp2vwP"><img src="https://img.shields.io/discord/1298533911869128725?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+        <a href="https://www.npmjs.com/package/leno.js"><img src="https://img.shields.io/npm/dw/leno.html?style=for-the-badge&logo=npm" alt="npm version" /></a>
+        <a href="https://www.npmjs.com/package/leno.js"><img src="https://img.shields.io/npm/v/leno.html?style=for-the-badge&logo=npm" alt="npm version" /></a>
+        <a href="https://github.com/discordjs/leno.js/actions"><img src="https://img.shields.io/github/actions/workflow/status/lenojoseph/leno.html/jekyll-docker.yml?style=for-the-badge&logo=GitHub" alt="Tests status" /></a>
+    </p>
+</div>
+
 # Basic Website Package
 
 A lightweight and responsive website template packaged as an npm module. This package includes a basic HTML structure, responsive CSS, and JavaScript for creating a simple website.
+
+## Update & Maintained
+
+<div align="center">
+  <br />
+    <p>
+        <a href="#"><img src="https://img.shields.io/github/last-commit/lenojoseph/leno.html?display_timestamp=committer&style=for-the-badge&label=Last%20Update" alt="last update" /></a>
+        <a href="#"><img src="https://img.shields.io/maintenance/yes/2025?style=for-the-badge&label=Maintained" alt="maintained" /></a>
+    </p>
+  <br />
+    <p>
+        <a href="#"><img src="https://img.shields.io/badge/Developed%20and%20Maintained-by%20Joseph-8A2BE2?style=for-the-badge" alt="maintained by" /></a>
+    </p>
+</div>
 
 ## Features
 
