@@ -8,7 +8,7 @@
         <a href="https://discord.gg/PNpVAp2vwP"><img src="https://img.shields.io/discord/1298533911869128725?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
         <a href="https://www.npmjs.com/package/leno.js"><img src="https://img.shields.io/npm/dw/leno.html?style=for-the-badge&logo=npm" alt="npm version" /></a>
         <a href="https://www.npmjs.com/package/leno.js"><img src="https://img.shields.io/npm/v/leno.html?style=for-the-badge&logo=npm" alt="npm version" /></a>
-        <a href="https://github.com/discordjs/leno.js/actions"><img src="https://img.shields.io/github/actions/workflow/status/lenojoseph/leno.html/jekyll-docker.yml?style=for-the-badge&logo=GitHub" alt="Tests status" /></a>
+        <a href="https://github.com/discordjs/leno.js/actions"><img src="https://img.shields.io/github/actions/workflow/status/lenojoseph/leno.html/jekyll-docker.yml?style=for-the-badge&logo=github&label=Test" alt="Tests status" /></a>
     </p>
 </div>
 
