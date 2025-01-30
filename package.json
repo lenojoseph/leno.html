@@ -1,6 +1,6 @@
 {
     "name": "leno.html",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A basic website with responsive structures",
     "main": "dist/index.html",
     "author": "J.M.ANNA JOSEPH",
